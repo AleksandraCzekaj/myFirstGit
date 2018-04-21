@@ -18,6 +18,18 @@ public class MyFirstGit {
         // TODO code application logic here
         System.out.println("Hello World");
         System.out.println("Hello Boogie");
+        
+        System.out.println("How much do you like programming?");
+        
+        System.out.println("I like it this much");
+        System.out.print("<");
+        for(int i = 0; i < 30; i++){
+            System.out.print("-");
+        }
+        System.out.println(">");
+        
+        
+        
     }
     
 }
